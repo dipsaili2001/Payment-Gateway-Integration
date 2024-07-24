@@ -6,7 +6,7 @@ Also, I have automated this using Jenkins - Jenkins is an open source automation
 # v1 -
 ![image](https://github.com/user-attachments/assets/bc08f459-08ec-4cc1-8302-71dae2ff5458)
 # Jenkins - 
-![image](https://github.com/user-attachments/assets/0b88861d-78f3-4b82-8290-84fedf70e974)
+![image](https://github.com/user-attachments/assets/eb349dd8-f78f-49fa-8c10-8bccbb7afa27)
 # Commit changes to the website code on github
 #v2 - 
 ![image](https://github.com/user-attachments/assets/0388e7ee-461b-41ed-a5b8-aad3b5ffba63)
