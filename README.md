@@ -10,7 +10,7 @@ Also, I have automated this using Jenkins - Jenkins is an open source automation
 # Commit changes to the website code on github
 #v2 - 
 ![image](https://github.com/user-attachments/assets/0388e7ee-461b-41ed-a5b8-aad3b5ffba63)
-# Run the Jenkins pipeline
+# Run the Jenkins pipeline/ Pipeline will auto run on the code submit using Git Polling
 ![image](https://github.com/user-attachments/assets/09b4cff9-cb55-4322-b261-8061a24fd068)
 # CI/CD - Deployed the changes
 ![image](https://github.com/user-attachments/assets/db10b667-4436-409d-b091-accb468fd182)
